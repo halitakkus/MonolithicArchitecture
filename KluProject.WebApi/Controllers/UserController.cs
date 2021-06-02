@@ -37,6 +37,19 @@ namespace KluProject.WebApi.Controllers
         }
 
         [HttpPost]
+        [Route("login")]
+        public ActionResult Any(string userName, string password)
+        {
+            var isLoginSuccess = _userManager.Any(userName, password);
+
+            if (!isLoginSuccess.IsSuccess)
+            {
+                return Ok(isLoginSuccess);
+            }
+            return Ok(isLoginSuccess);
+        }
+
+        [HttpPost]
         [Route("RemoveById")]
         public ActionResult RemoveById(Guid id)
         {

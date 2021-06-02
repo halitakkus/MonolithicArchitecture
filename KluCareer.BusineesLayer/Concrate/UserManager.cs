@@ -61,6 +61,20 @@ namespace KluCareer.BusineesLayer.Concrate
             return new SuccessResult();
         }
 
+        public IResult Any(string  userName, string password)
+        {
+            var any = _userDal.Any(userName, password);
+            if (!any)
+            {
+                var error = new ErrorResult();
+
+                error.AddMessage("userNotFound", "Böyle bir kullanıcı yok!");
+                return error;
+            }
+            return new SuccessResult();
+        }
+
+
         public IResult Update(User user)
         {
            

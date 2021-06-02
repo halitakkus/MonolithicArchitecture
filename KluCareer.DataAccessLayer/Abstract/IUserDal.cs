@@ -9,6 +9,7 @@ namespace KluCareer.DataAccessLayer.Abstract
     public interface IUserDal:IRepository<User>
     {
       public List<User> GetListFullInclude();
+        public bool Any(string userName, string password);
         public bool Any(string userName);
     }
 }
