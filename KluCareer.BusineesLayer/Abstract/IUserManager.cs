@@ -9,6 +9,7 @@ namespace KluCareer.BusineesLayer.Abstract
     public interface IUserManager
     {
         IResult Add(User user);
+        IResult Any(string userName, string password);
         IResult Update(User user);
         IResult Remove(User user);
         IDataResult<List<User>> GetList();

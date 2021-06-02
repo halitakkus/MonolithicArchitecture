@@ -5,7 +5,7 @@ using System.Text;
 
 namespace KluCareer.Entities.Concrate.Models
 {
-    public class Admin
+    public class Admin:BaseEntity
     {
         public Guid UserId { get; set; }
         public User User { get; set; }

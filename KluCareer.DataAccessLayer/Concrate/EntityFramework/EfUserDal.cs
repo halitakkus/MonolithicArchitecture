@@ -24,6 +24,15 @@ namespace KluCareer.DataAccessLayer.Concrate.EntityFramework
             }
         }
 
+        public bool Any(string userName, string password)
+        {
+            using (var context = new KluCareerContext())
+            {
+                return context.User
+                   .Any(i => i.UserName == userName && i.Password == password);
+            }
+        }
+
         public bool Any(string userName)
         {
             using (var context = new KluCareerContext())
@@ -32,5 +41,6 @@ namespace KluCareer.DataAccessLayer.Concrate.EntityFramework
                    .Any(i => i.UserName == userName);
             }
         }
+
     }
 }
