@@ -26,3 +26,17 @@ E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.dll
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.pdb
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.BusineesLayer.deps.json
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.BusineesLayer.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.BusineesLayer.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.Entities.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\bin\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csprojAssemblyReference.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.AssemblyInfoInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.AssemblyInfo.cs
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.csproj.CopyComplete
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.BusineesLayer\obj\Debug\netcoreapp3.1\KluCareer.BusineesLayer.pdb

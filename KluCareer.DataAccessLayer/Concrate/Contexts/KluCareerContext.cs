@@ -26,9 +26,11 @@ namespace KluCareer.DataAccessLayer.Concrate.Contexts
             });
         }
       
-        public DbSet<Cv> Cvs { get; set; }
-        public DbSet<Bolum> Bolumler { get; set; }
-        public DbSet<User> Users { get; set; }
-        public DbSet<Fakulte> Fakulteler { get; set; }
+        public DbSet<Admin> Admin { get; set; }
+        public DbSet<Customers> Customers { get; set; }
+        public DbSet<User> User { get; set; }
+        public DbSet<DevirDaim> DevirDaim { get; set; }
+        public DbSet<DevirDaimDurum> DevirDaimDurum { get; set; }
+        public DbSet<News> News { get; set; }
     }
 }

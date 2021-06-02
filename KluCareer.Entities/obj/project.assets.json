@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mehmet_zahid\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\salih\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehmet_zahid\\Desktop\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
       "projectName": "KluCareer.Entities",
-      "projectPath": "C:\\Users\\mehmet_zahid\\Desktop\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
-      "packagesPath": "C:\\Users\\mehmet_zahid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehmet_zahid\\Desktop\\MonolithicArchitecture\\KluCareer.Entities\\obj\\",
+      "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
+      "packagesPath": "C:\\Users\\salih\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mehmet_zahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\salih\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -48,10 +44,21 @@
     "frameworks": {
       "netcoreapp3.1": {
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

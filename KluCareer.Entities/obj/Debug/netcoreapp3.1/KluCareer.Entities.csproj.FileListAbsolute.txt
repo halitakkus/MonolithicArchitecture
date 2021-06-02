@@ -16,3 +16,12 @@ E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debu
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csproj.CoreCompileInputs.cache
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.dll
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csprojAssemblyReference.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.AssemblyInfoInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.AssemblyInfo.cs
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\obj\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.deps.json
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.Entities\bin\Debug\netcoreapp3.1\KluCareer.Entities.pdb

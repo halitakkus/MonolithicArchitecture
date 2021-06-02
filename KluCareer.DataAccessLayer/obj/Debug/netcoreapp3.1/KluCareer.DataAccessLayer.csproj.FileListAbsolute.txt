@@ -21,3 +21,15 @@ E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\o
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.dll
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.pdb
 E:\GIT\MonolithicArchitecture\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\bin\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.deps.json
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\bin\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\bin\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\bin\Debug\netcoreapp3.1\KluCareer.Entities.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\bin\Debug\netcoreapp3.1\KluCareer.Entities.pdb
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.AssemblyInfo.cs
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.csproj.CopyComplete
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.dll
+C:\Users\salih\Desktop\test\MonolithicArchitecture\KluCareer.DataAccessLayer\obj\Debug\netcoreapp3.1\KluCareer.DataAccessLayer.pdb

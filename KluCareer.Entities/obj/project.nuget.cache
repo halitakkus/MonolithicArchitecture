@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QSx535lIGKHEJWce/Wuer63dSxdk6L7nX2eKJc0Ycv6HFQq3VZMRPcJV/8gOD4N+fHksmI6tRUNvD0KO2SBKcQ==",
+  "dgSpecHash": "EswEBAcGCLaownsHPm4PxvP3yLRPdl06vK6kL1e7smjHDPe1I4mAQLA8w1K6E7UVeAY9cLFg6WlU7ZdBNKi5Og==",
   "success": true,
-  "projectFilePath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
+  "projectFilePath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

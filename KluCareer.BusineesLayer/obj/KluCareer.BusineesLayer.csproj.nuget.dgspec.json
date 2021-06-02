@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {}
+    "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {}
   },
   "projects": {
-    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {
+    "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+        "projectUniqueName": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
         "projectName": "KluCareer.BusineesLayer",
-        "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
-        "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.BusineesLayer\\obj\\",
+        "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.BusineesLayer\\KluCareer.BusineesLayer.csproj",
+        "packagesPath": "C:\\Users\\salih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.BusineesLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\salih\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
-                "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj"
+              "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj"
               },
-              "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
-                "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
+              "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+                "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
               }
             }
           }
@@ -73,21 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
+    "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
         "projectName": "KluCareer.DataAccessLayer",
-        "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\KluCareer.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\salih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\salih\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,8 +100,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
-                "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
+              "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+                "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj"
               }
             }
           }
@@ -147,21 +147,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
+    "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
         "projectName": "KluCareer.Entities",
-        "projectPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
-        "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\MonolithicArchitecture\\MonolithicArchitecture\\KluCareer.Entities\\obj\\",
+        "projectPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\KluCareer.Entities.csproj",
+        "packagesPath": "C:\\Users\\salih\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\salih\\Desktop\\test\\MonolithicArchitecture\\KluCareer.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\salih\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -199,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

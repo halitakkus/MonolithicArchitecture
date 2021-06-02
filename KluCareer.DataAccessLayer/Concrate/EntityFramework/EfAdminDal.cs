@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace KluCareer.DataAccessLayer.Concrate.EntityFramework
 {
-    public class EfUserDal : EfRepository<User, KluCareerContext>, IUserDal
+    public class EfAdminDal : EfRepository<User, KluCareerContext>, IUserDal
     {
         //diğer operasyonlar buradan yönetilir...
 
